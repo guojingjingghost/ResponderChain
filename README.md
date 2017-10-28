@@ -1,0 +1,2 @@
+# ResponderChain
+父子控制器和直接把一个控制的view添加到另一个控制器的view上的区别
